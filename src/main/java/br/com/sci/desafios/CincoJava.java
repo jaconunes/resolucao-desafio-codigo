@@ -11,7 +11,7 @@ public class CincoJava {
 
    /* SOBRE A RESOLUÇÃO DO DESAFIO:
     Sabendo que não é possível criar uma matriz bidimensional com tipos diferentes de dados,
-    a matriz foi icializada com o tipo String e depois convertido para Double, e então feito os devidos cálculos. */
+    a matriz foi inicializada com o tipo String e depois convertido para Double, e então feito os devidos cálculos. */
 
 
     public static void main(String[] args) {

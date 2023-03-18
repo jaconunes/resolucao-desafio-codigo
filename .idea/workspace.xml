@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d4ee30f-ced7-4124-bec1-92569107e563" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/sci/desafios/CincoJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/sci/desafios/DoisJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/sci/desafios/QuatroJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/sci/desafios/TresJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/sci/desafios/UmJava.java" afterDir="false" />
+    <list default="true" id="0d4ee30f-ced7-4124-bec1-92569107e563" name="Changes" comment="Resolução desafio de código">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/sci/desafios/CincoJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/sci/desafios/CincoJava.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,6 +126,14 @@
       <option name="presentableId" value="Default" />
       <updated>1679148573679</updated>
     </task>
+    <task id="LOCAL-00001" summary="Resolução desafio de código">
+      <created>1679172375895</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679172375895</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,10 +141,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Resolução desafio de código" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resolução desafio de código" />
   </component>
 </project>
